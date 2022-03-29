@@ -1,0 +1,22 @@
+{
+  "name": "web20221aunar",
+  "version": "1.0.0",
+  "description": "This is a example by Aunar20221",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solofruad/web20221aunar.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nestor Suat-Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solofruad/web20221aunar/issues"
+  },
+  "homepage": "https://github.com/solofruad/web20221aunar#readme"
+}
